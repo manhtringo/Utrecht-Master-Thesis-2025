@@ -16,8 +16,6 @@ This repository contains the code and data for the 2025 Master’s Thesis in App
 ## 📂 Repository Structure
 
 - `Master Thesis Money Laundering 2025 - Manh Tri Ngo.ipynb`: The main Jupyter Notebook (tested with version 7.3.2) containing the full pipeline including data preprocessing, feature engineering, model training, and evaluation.
-- `data/`: Contains cleaned or pre-processed data used in the analysis (company, director, and network data).
-- `networks/`: Contains pre-built graphs and feature matrices to speed up model training and evaluation.
 
 ## 🚀 Usage Instructions
 
